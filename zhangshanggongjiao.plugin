@@ -1,0 +1,7 @@
+#!name=掌上公交去广告
+
+[Rule]
+# 掌上公交去广告
+DOMAIN-SUFFIX,quanguo.mygolbs.com,REJECT
+# 掌上公交禁用推荐之类的出现
+DOMAIN-SUFFIX,cpu-openapi.baidu.com,REJECT
