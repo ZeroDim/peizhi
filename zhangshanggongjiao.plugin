@@ -1,5 +1,6 @@
 #!name=掌上公交去广告
-img-url = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SouguMyBus.png
+#!desc=掌上公交去广告
+#!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SouguMyBus.png
 
 [Rule]
 # 掌上公交去广告
