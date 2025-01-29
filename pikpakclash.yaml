@@ -1,10 +1,5 @@
 # NAME: PikPak download servers
 payload:
-  - DOMAIN,mypikpak.com
-  - DOMAIN,static.mypikpak.com
-  - DOMAIN,user.mypikpak.com
-  - DOMAIN,api-drive.mypikpak.com
-  - DOMAIN,config.mypikpak.com
   - IP-CIDR,101.47.14.136/32,no-resolve
   - IP-CIDR,101.47.22.31/32,no-resolve
   - IP-CIDR,101.47.20.248/32,no-resolve
