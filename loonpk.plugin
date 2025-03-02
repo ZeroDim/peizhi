@@ -1,0 +1,6 @@
+#!name = PikPak
+[rule]
+DOMAIN-KEYWORD,dl-a10b-,DIRECT
+DOMAIN-KEYWORD,dl-z01a-,DIRECT
+DOMAIN,access.mypikpak.com,自动选择
+DOMAIN,api-drive.mypikpak.com,DIRECT
