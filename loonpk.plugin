@@ -1,4 +1,5 @@
 #!name = PikPak
+#!icon = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pikpak.png
 [rule]
 DOMAIN-KEYWORD,dl-a10b-,DIRECT
 DOMAIN-KEYWORD,dl-z01a-,DIRECT
