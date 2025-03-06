@@ -1,7 +1,7 @@
 # NAME: PikPak download servers
 rules:
   - DOMAIN,access.mypikpak.com,REJECT
-  - DOMAIN,api-drive.mypikpak.com,自行选择
+  - DOMAIN,api-drive.mypikpak.com,DIRECT
   - DOMAIN-KEYWORD,dl-a10b-,DIRECT
   - DOMAIN-KEYWORD,dl-z01a-,DIRECT
   - DOMAIN-SUFFIX,mypikpak.com,DIRECT
