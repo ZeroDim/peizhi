@@ -1,5 +1,5 @@
 # NAME: PikPak download servers
-payload:
+rules:
   - DOMAIN,access.mypikpak.com,REJECT
   - DOMAIN,api-drive.mypikpak.com,自行选择
   - DOMAIN-KEYWORD,dl-a10b-,DIRECT
