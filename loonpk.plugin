@@ -1,7 +1,7 @@
 #!name = PikPak
 #!icon = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pikpak.png
 [rule]
+DOMAIN,access.mypikpak.com,REJECT
+DOMAIN,api-drive.mypikpak.com,自行选择
 DOMAIN-KEYWORD,dl-a10b-,DIRECT
 DOMAIN-KEYWORD,dl-z01a-,DIRECT
-DOMAIN,access.mypikpak.com,REJECT-DROP
-DOMAIN,api-drive.mypikpak.com,DIRECT
