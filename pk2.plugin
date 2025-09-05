@@ -1,0 +1,9 @@
+#!name = PikPak
+#!icon = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pikpak.png
+[rule]
+DOMAIN-KEYWORD,dl-a10b-,DIRECT
+DOMAIN-KEYWORD,dl-z01a-,DIRECT
+DOMAIN-SUFFIX,mypikpak.com,自行选择
+DOMAIN-SUFFIX,mypikpak.net,自行选择
+DOMAIN-SUFFIX,pikpak.me,自行选择
+DOMAIN-SUFFIX,pikpakdrive.com,自行选择
