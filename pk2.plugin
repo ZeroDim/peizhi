@@ -1,9 +1,16 @@
 #!name = PikPak
 #!icon = https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pikpak.png
+
+[host]
+access.mypikpak.com = 0.0.0.0
+access.mypikpak.net = 0.0.0.0
+access.pikpak.me = 0.0.0.0
+access.pikpakdrive.com = 0.0.0.0
+
 [rule]
 DOMAIN-KEYWORD,dl-a10b-,DIRECT
 DOMAIN-KEYWORD,dl-z01a-,DIRECT
-DOMAIN-SUFFIX,mypikpak.com,自行选择
-DOMAIN-SUFFIX,mypikpak.net,自行选择
-DOMAIN-SUFFIX,pikpak.me,自行选择
-DOMAIN-SUFFIX,pikpakdrive.com,自行选择
+DOMAIN-SUFFIX,mypikpak.com,DIRECT
+DOMAIN-SUFFIX,mypikpak.net,DIRECT
+DOMAIN-SUFFIX,pikpak.me,DIRECT
+DOMAIN-SUFFIX,pikpakdrive.com,DIRECT
