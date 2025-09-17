@@ -4,3 +4,4 @@
 [Host]
 oss-cn-shanghai.solidigm-qwer.com = 117.186.219.52, use-in-proxy=true
 oss-cn-guangzhou.solidigm-qwer.com = 163.177.58.85, use-in-proxy=true
+cos-ap-beijing.solidigm-qwer.com = 163.177.58.84
