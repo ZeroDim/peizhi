@@ -1,0 +1,5 @@
+#!name=iOS update 
+
+[Host]
+iosapps.itunes.apple.com = iosapps.itunes.apple.com.download.ks-cdn.com
+updates.g.aaplimg.com = updates.cdn-apple.com.download.ks-cdn.com
