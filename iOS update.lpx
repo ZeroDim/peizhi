@@ -1,5 +1,5 @@
-#!name=iOS update 
+#!name=iOS Update acceleration
 
 [Host]
 iosapps.itunes.apple.com = iosapps.itunes.apple.com.download.ks-cdn.com
-updates.g.aaplimg.com = updates.cdn-apple.com.download.ks-cdn.com
+updates.cdn-apple.com = updates.cdn-apple.com.download.ks-cdn.com
